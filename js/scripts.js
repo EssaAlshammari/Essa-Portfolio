@@ -110,9 +110,9 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Freelancer.", "I Design Websites.", "I Live in New York."],    /* You can change the home section typing text from
+            strings: ["خطط", "نفذ", "قوم"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
-            typeSpeed: 50
+            typeSpeed: 40
           });
          });
         
@@ -198,7 +198,7 @@
            $(counter).countTo({
            from: 0,
            to: toCount,
-           speed: 5000,
+           speed: 2000,
            refreshInterval: 50
            })
            });
