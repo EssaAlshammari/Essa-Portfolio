@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["خطط", "نفذ", "قوم"],    /* You can change the home section typing text from
+            strings: ["خطط", "نفذ", "قوم", "متوسطة الابناء الثالثة"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 40
           });
